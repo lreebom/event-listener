@@ -1,0 +1,35 @@
+{
+  "name": "@lreebom/event-listener",
+  "version": "1.0.1",
+  "description": "A simple event listener for typescript",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lreebom/event-listener.git"
+  },
+  "main": "dist/index.js",
+  "license": "Apache",
+  "author": "liubo",
+  "files": [
+    "dist",
+    "src",
+    "samples"
+  ],
+  "scripts": {
+    "build": "npx tsc",
+    "npm-login": "npm login",
+    "npm-publish": "npm publish"
+  },
+  "keywords": [
+    "event",
+    "event-listener",
+    "eventListener",
+    "listener",
+    "events",
+    "eventEmitter",
+    "eventDispatcher",
+    "listeners"
+  ],
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
