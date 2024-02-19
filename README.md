@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
- npm i lreebom@event-listener
+ npm i @lreebom/event-listener
 ```
 
 ## 使用
